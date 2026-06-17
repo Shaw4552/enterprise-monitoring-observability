@@ -38,3 +38,26 @@ LibreNMS is the first phase of the monitoring platform. It provides network and 
 - Infrastructure inventory
 - Monitoring documentation
 - Operational validation
+
+ ## Design Decisions
+
+### Monitoring Network Placement
+
+Current State:
+
+LibreNMS is deployed on a services network to accelerate platform deployment and validation.
+
+Challenge:
+
+Management VLAN firewall policies prevented initial connectivity.
+
+Future Improvement:
+
+Migrate LibreNMS to a dedicated infrastructure/management network after firewall policy review.
+
+Skills Demonstrated:
+
+- Troubleshooting
+- Network segmentation
+- Risk assessment
+- Technical debt management
