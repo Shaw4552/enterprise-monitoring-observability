@@ -67,3 +67,10 @@ Enterprise-grade monitoring and observability platform built in a Proxmox homela
 - Runbooks
 - Incident response
 - Technical documentation
+
+## Incident Response Case Studies
+
+- Incident 001 - DNS Connectivity Failure
+- Incident 002 - Plex Streaming Investigation
+- Incident 003 - VLAN Segmentation Validation
+- Incident 004 - VPN Routing Analysis
